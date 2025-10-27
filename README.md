@@ -24,6 +24,10 @@ To maintain stable nutrient levels, the system integrates the following componen
 
 When the TDS value falls below 1200 ppm, the microcontroller activates the relay to power the pump, adding nutrient solution until the optimal level is reached.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=12qde4CmMnbQ8fJ_7C12qI961ryN5u-RF" width="500" />
+</p>
+
 🌍 Impact and Sustainability
 
 This system was implemented at Alam Sari Petra, an educational urban farming park in Surabaya.
@@ -32,4 +36,9 @@ The project contributes by:
 1. Helping staff maintain nutrient balance automatically.
 2. Serving as an educational tool for visitors to learn about IoT in agriculture.
 3. Being easily adaptable to other hydroponic systems.
+
+Demo Video:
+🎥 [Watch the project demo on YouTube](https://youtu.be/i1JSjRk-OLI)
+
+
 
