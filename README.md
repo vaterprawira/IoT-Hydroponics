@@ -28,6 +28,10 @@ When the TDS value falls below 1200 ppm, the microcontroller activates the relay
   <img src="https://drive.google.com/uc?export=view&id=12qde4CmMnbQ8fJ_7C12qI961ryN5u-RF" width="500" />
 </p>
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1RnXmP4KCewWsxO-CyRxQkQwsJsEn1h80" width="500" />
+</p>
+
 🌍 Impact and Sustainability
 
 This system was implemented at Alam Sari Petra, an educational urban farming park in Surabaya.
